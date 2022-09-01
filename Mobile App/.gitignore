@@ -1,0 +1,30 @@
+
+# OSX
+#
+.DS_Store
+.vscode
+
+node_modules/
+package-lock.json # include if you are using npm - don't use both yarn and npm
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+yarn.lock # include if you are using yarn - don't use both npm and yarn
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+
+# macOS
+.DS_Store
