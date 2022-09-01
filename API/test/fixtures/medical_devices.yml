@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manufacturer: MyString
+  equipment_num: MyString
+  equipment_name: MyString
+  model: MyString
+  hospital_id: MyString
+  responsible_personnel: MyString
+  department: MyString
+  floor: MyString
+  room: MyString
+  installation_date: MyString
+  warranty: MyString
+  warranty_period: MyString
+
+two:
+  manufacturer: MyString
+  equipment_num: MyString
+  equipment_name: MyString
+  model: MyString
+  hospital_id: MyString
+  responsible_personnel: MyString
+  department: MyString
+  floor: MyString
+  room: MyString
+  installation_date: MyString
+  warranty: MyString
+  warranty_period: MyString
